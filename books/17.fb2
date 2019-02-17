@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>
+    <first-name>Леонид</first-name>
+    <middle-name>Николаевич</middle-name>
+    <last-name>Андреев</last-name>
+   </author>
+   <book-title>Баргамот и Гараська</book-title>
+   <date>1898</date>
+   <coverpage>
+    <image l:href="#sd498_25_10.jpg"/></coverpage>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name>glassy</last-name>
+   </author>
+   <program-used>FB Tools, Fiction Book Designer, FB Editor v2.0</program-used>
+   <date value="2005-09-21">13.08.2008</date>
+   <src-url>http://www.leonidandreev.ru/</src-url>
+   <id>FB5CA98B-2A8E-41E9-82EF-E4180FB0809F</id>
+   <version>1.1</version>
+  </document-info>
+  <publish-info>
+   <book-name>Книга для внеклассного чтения по литературе. 7 класс</book-name>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Леонид Николаевич Андреев</p>
+   <empty-line/>
+   <p>Баргамот и Гараська</p>
+  </title>
+  <section>
+   <p>Было бы несправедливо сказать, что природа обидела Ивана Акиндиныча Бергамотова, в своей официальной части именовавшегося «городовой бляха № 20», а в неофициальной — попросту «Баргамот». Обитатели одной из окраин губернского города Орла, в свою очередь, по отношению к месту жительства называвшиеся пушкарями (от названия Пушкарной улицы), а с духовной стороны характеризовавшиеся прозвищем «пушкари — проломленные головы», давая Ивану Акипдиновичу это имя, без сомнения, не имели в виду свойств, присущих столь нежному и деликатному плоду, как бергамот. По своей внешности Баргамот скорее напоминал мастодонта или вообще одного из тех милых, но погибших созданий, которые за недостатком помещения давно уже покинули землю, заполненную мозгляками-людишками. Высокий, толстый, сильный, громогласный Баргамот составлял на полицейском горизонте видную фигуру и давно, конечно, достиг бы известных степеней, если бы душа его, сдавленная толстыми стенами, не была погружена в богатырский сон. Внешние впечатления, проходя в душу Баргамота через его маленькие, заплывшие глазки, по дороге теряли всю свою остроту и силу и доходили до места назначения в виде слабых отзвуков и отблесков. Человек с возвышенными требованиями назвал бы его куском мяса, околоточные надзиратели величали его дубиной, хоть и исполнительной; для пушкарей же — наиболее заинтересованных в этом вопросе лиц — он был степенным, серьезным и солидным человеком, достойным всякого почета и уважения. То, что знал Баргамот, он знал твердо. Пусть это была одна инструкция для городовых, когда-то с напряжением всего громадного тела усвоенная им, но зато эта инструкция так глубоко засела в его неповоротливом мозгу, что вытравить ее оттуда нельзя было даже крепкой водкой. Не менее прочную позицию занимали в его душе немногие истины, добытые путем житейского опыта и, безусловно, господствовавшие над местностью. Чего не знал Баргамот, о том он молчал с такой несокрушимой солидностью, что людям знающим становилось как будто немного совестно за свое знание. А самое главное, — Баргамот обладал непомерной силищей, сила же на Пушкарной улице была все. Населенная сапожниками, пенькотрепальщиками, кустарями-портными и иных свободных профессий представителями, обладая двумя кабаками, воскресеньями и понедельниками, все свои часы досуга Пушкарная посвящала гомерической драке, в которой принимали непосредственное участие жены, растрепанные, простоволосые, растаскивающие мужей, и маленькие ребятишки, с восторгом взиравшие на отвагу тятек. Вся эта буйная волна пьяных пушкарей, как о каменный оплот, разбивалась о непоколебимого Баргамота, забиравшего методически в свои мощные длани пару наиболее отчаянных крикунов и самолично доставлявшего их «за клин». Крикуны покорно вручали свою судьбу в руки Баргамота, протестуя лишь для порядка.</p>
+   <p>Таков был Баргамот в области международных отношений. В сфере внутренней политики он держался с неменьшим достоинством. Маленькая, покосившаяся хибарка, в которой обитал Баргамот с женой и двумя детишками и которая с трудом вмещала его грузное тело, трясясь от дряхлости и страха за свое существование, когда Баргамот ворочался, — могла быть спокойна если не за свои деревянные устои, то за устои семейного союза. Хозяйственный, рачительный, любивший в свободные дни копаться в огороде, Баргамот был строг. Путем того же физического воздействия он учил жену и детей, не столько сообразуясь с их действительными потребностями в науке, сколько с теми неясными на этот счет указаниями, которые существовали где-то в закоулке его большой головы. Это не мешало жене его Марье, еще моложавой и красивой женщине, с одной стороны, уважать мужа, как человека степенного и непьющего, а с другой — вертеть им, при всей его грузности, с такой легкостью и силой, на которую только и способны слабые женщины.</p>
+   <p>Часу в десятом теплого весеннего вечера Баргамот стоял на своем обычном посту, на углу Пушкарной и 3-й Посадской улиц. Настроение Баргамота было скверное. Завтра светлое Христово воскресение, сейчас люди пойдут в церковь, а ему стоять на дежурстве до трех часов ночи, только к разговинам домой попадешь. Потребности молиться Баргамот не ощущал, но праздничное, светлое настроение, разлитое по необычайно тихой и спокойной улице, коснулось и его. Ему не нравилось место, на котором он ежедневно спокойно стоял в течение десятка годов: хотелось даже делать что-нибудь такое праздничное, что делают другие. В виде смутных ощущений поднимались в нем недовольство и нетерпение. Кроме того, он был голоден. Жена нынче совсем не дала ему обедать. Так, только тюри пришлось похлебать. Большой живот настоятельно требовал пищи, а разговляться-то когда еще!</p>
+   <p>— Тьфу! — плюнул Баргамот, сделав цигарку, и начал нехотя сосать ее. Дома у него были хорошие папиросы, презентованные местным лавочником, но и они откладывались «до разговленья».</p>
+   <p>Вскоре потянулись в церковь и пушкари, чистые, благообразные, в пиджаках и жилетах поверх красных и синих шерстяных рубах, в длинных, с бесконечным количеством сборок сапогах на высоких и острых каблучках. Завтра всему этому великолепию предстояло частью попасть на стойку кабаков, а частью быть разорванным в дружеской схватке за гармонию, но сегодня пушкари сияли. Каждый бережно нес узелок с пасхой и куличами. На Баргамота никто не обращал внимания, да и он с неособенной любовью посматривал на своих «крестников», смутно предчувствуя, сколько путешествий придется ему завтра совершить в участок. В сущности, ему было завидно, что они свободны и идут туда, где будет светло, шумно и радостно, а он торчи тут как неприкаянный.</p>
+   <p>«Стой тут из-за вас, пьяниц!» — резюмировал он свои размышления и еще раз плюнул — сосало под ложечкой.</p>
+   <p>Улица опустела. Отзвонили к обедне. Потом радостный, переливчатый трезвон, такой веселый после заунывных великопостных колоколов, разнес по миру благостную весть о воскресении Христа. Баргамот снял шапку и перекрестился. Скоро и домой. Баргамот повеселел, представляя себе стол, накрытый чистой скатертью, куличи, яйца. Он не торопясь со всеми похристосуется. Разбудят и принесут Ванюшку, который первым делом потребует крашеного яичка, о котором целую неделю вел обстоятельные беседы с более опытной сестренкой. Вот то разинет он рот, когда отец преподнесет ему не линючее, окрашенное фуксином яйцо, а настоящее мраморное, что самому ему презентовал все тот же обязательный лавочник! «Потешный мальчик!» — ухмыльнулся Баргамот, чувствуя, как что-то вроде родительской нежности поднимается со дна его души.</p>
+   <p>Но благодушие Баргамота было нарушено самым подлым образом. За углом послышались неровные шаги и сиплоe бормотанье. «Кого это несет нелегкая?» — подумал Баргамот, заглянул за угол и всей душой оскорбился. Гараська! Сам с своей собственной пьяной особой, — его только недоставало! Где он поспел до свету наклюкаться, составляло ею тайну, но что он наклюкался, было вне всякого сомнения. Его поведение, загадочное для всякого постороннего человека, для Баргамота, изучившего душу пушкаря вообще и подлую Гараськину натуру в частности, было вполне ясно. Влекомый непреодолимой силой, Гараська со средины улицы, по которой он имел обыкновение шествовать, был притиснут к забору. Упершись обеими руками и сосредоточенно-вопросительно вглядываясь в стену, Гараська покачивался, собирая силы для новой борьбы с неожиданными препятствиями. После непродолжительного напряженного размышления Гараська энергично отпихнулся от стены, допятился задом до средины улицы и, сделав решительный поворот, крупными шагами устремился в пространство, оказавшееся вовсе не таким бесконечным, как о нем говорят, и в действительности ограниченное массой фонарей. С первым же из них Гараська вступил в самые тесные отношения, заключив его в дружеские и крепкие объятия.</p>
+   <p>— Фонарь. Тпру! — кратко констатировал Гараська совершившийся факт. Вопреки обыкновению, Гараська был настроен чрезвычайно добродушно. Вместо того чтобы обсыпать столб заслуженными ругательствами, Гараська обратился к нему с кроткими упреками, носившими несколько фамильярный оттенок.</p>
+   <p>— Стой, дурашка, куда ты?! — бормотал он, откачиваясь от столба и снова всей грудью припадая к нему и чуть не сплющивая носа об его холодную и сыроватую поверхность. — Вот, вот!.. — Гараська, уже наполовину скользнувший вдоль столба, успел удержаться и погрузиться в задумчивость.</p>
+   <p>Баргамот с высоты своего роста, презрительно скосив губы, смотрел на Гараську. Никто ему так не досаждал на Пушкарной, как этот пьянчужка. Так посмотришь, — в чем душа держится, а скандалист первый на всей окраине. Не человек, а язва. Пушкарь напьется, побуянит, переночует в участке — и все это выходит у него по-благородному, а Гараська все исподтишка, с язвительностью. И били-то его до полусмерти, и в части впроголодь держали, а все не могли отучить от ругани, самой обидной и злоязычной. Станет под окнами кого-нибудь из наиболее почетных лиц на Пушкарной и начнет костить, без всякой причины, здорово живешь. Приказчики ловят Гараську и бьют, — толпа хохочет, рекомендуя поддать жару. Самого Баргамота Гараська ругал так фантастически реально, что тот, не понимая даже всей соли Гараськиных острот, чувствовал, что он обижен более, чем если бы его выпороли.</p>
+   <p>Чем промышлял Гараська, оставалось для пушкарей одной из тайн, которыми было облечено все его существование. Трезвым его не видел никто, даже та нянька, которая в детстве ушибает ребят, после чего от них слышится спиртный запах, — от Гараськи и до ушиба несло сивухой. Жил, то есть ночевал, Гараська по огородам, по берегу, под кусточками. Зимой куда-то исчезал, с первым дыханием весны появлялся. Что его привлекало на Пушкарную, где его не бил только ленивый, — было опять-таки тайной бездонной Гараськиной души, но выжить его ничем не могли. Предполагали, и не без основания, что Гараська поворовывает, но поймать его не могли и били лишь на основании косвенных улик.</p>
+   <p>На этот раз Гараське пришлось, видимо, преодолеть нелегкий путь. Отрепья, делавшие вид, что они серьезно прикрывают его тощее тело, были все в грязи, еще не успевшей засохнуть. Физиономия Гараськи, с большим отвислым красным носом, бесспорно служившим одной из причин его неустойчивости, покрытая жиденькой и неравномерно распределенной растительностью, хранила на себе вещественные знаки вещественных отношений к алкоголю и кулаку ближнего. На щеке у самого глаза виднелась царапина, видимо, недавнего происхождения.</p>
+   <p>Гараське удалось наконец расстаться с столбом, когда он заметил величественно-безмолвную фигуру Баргамота. Гараська обрадовался.</p>
+   <p>— Наше вам! Баргамоту Баргамотычу!.. Как ваше драгоценное здоровье? — Галантно он сделал ручкой, но, пошатнувшись, на всякий случай уперся спиной в столб.</p>
+   <p>— Куда идешь? — мрачно прогудел Баргамот.</p>
+   <p>— Наша дорога прямая…</p>
+   <p>— Воровать? А в часть хочешь? Сейчас, подлеца, отправлю.</p>
+   <p>— Не можете.</p>
+   <p>Гараська хотел сделать жест, выражающий удальство, но благоразумно удержался, плюнул и пошаркал на одном месте ногой, делая вид, что растирает плевок.</p>
+   <p>— А вот в участке поговоришь! Марш! — мощная длань Баргамота устремилась к засаленному вороту Гараськи, настолько засаленному и рваному, что Баргамот был, очевидно, уже не первым руководителем Гараськи на тернистом пути добродетели.</p>
+   <p>Встряхнув слегка пьяницу и придав его телу надлежащее направление и некоторую устойчивость, Баргамот потащил его к вышеуказанной им цели, совершенно уподобляясь могучему буксиру, влекущему за собою легонькую шхуну, потерпевшую аварию у самого входа в гавань. Он чувствовал себя глубоко обиженным: вместо заслуженного отдыха тащись с этим пьянчужкой в участок. Эх! У Баргамота чесались руки, но сознание того, что в такой великий день как будто неудобно пускать их в ход, сдерживало его. Гараська шагал бодро, совмещая удивительным образом самоуверенность и даже дерзость с кротостью. У него, очевидно, была своя мысль, к которой он и начал подходить сократовским методом:</p>
+   <p>— А скажи, господин городовой, какой нынче у нас день?</p>
+   <p>— Уж молчал бы! — презрительно ответил Баргамот. — До свету нализался.</p>
+   <p>— А у Михаила-архангела звонили?</p>
+   <p>— Звонили. Тебе-то что?</p>
+   <p>— Христос, значит, воскрес?</p>
+   <p>— Ну, воскрес.</p>
+   <p>— Так позвольте… — Гараська, ведший этот разговор вполоборота к Баргамоту, решительно повернулся к нему лицом.</p>
+   <p>Баргамот, заинтригованный странными вопросами Гараськи, машинально выпустил из руки засаленный ворот; Гараська, утратив точку опоры, пошатнулся и упал, не успев показать Баргамоту предмета, только что вынутого им из кармана. Приподнявшись одним туловищем, опираясь на руки, Гараська посмотрел вниз, — потом упал лицом на землю и завыл, как бабы воют по покойнике.</p>
+   <p>Гараська воет! Баргамот изумился. «Новую шутку, должно быть, выдумал», — решил он, но все же заинтересовался, что будет дальше. Дальше Гараська продолжал выть без слов, по-собачьи.</p>
+   <p>— Что ты, очумел, что ли? — ткнул его ногой Баргамот. Воет. Баргамот в раздумье.</p>
+   <p>— Да чего тебя расхватывает?</p>
+   <p>— Яи-ч-ко…</p>
+   <p>Гараська, продолжая выть, но уже потише, сел и поднял руку кверху. Рука была покрыта какой-то слизью, к которой пристали кусочки крашеной яичной скорлупы. Баргамот, продолжая недоумевать, начинает чувствовать, что случилось что-то нехорошее.</p>
+   <p>— Я… по-благородному… похристосоваться… яичко, а ты… — бессвязно бурлил Гараська, но Баргамот понял. Вот к чему, стало быть, вел Гараська: похристосоваться хотел, по христианскому обычаю, яичком, а он, Баргамот, его в участок пожелал отправить. Может, откуда он это яичко нес, а теперь вон разбил его. И плачет.</p>
+   <p>Баргамоту представилось, что мраморное яичко, которое он бережет для Ванюшки, разбилось, и как это ему, Баргамоту, было жаль.</p>
+   <p>— Экая оказия, — мотал головой Баргамот, глядя на валявшегося пьянчужку и чувствуя, что жалок ему этот человек, как брат родной, кровно своим же братом обиженный.</p>
+   <p>— Похристосоваться хотел… Тоже душа живая, — бормотал городовой, стараясь со всею неуклюжестью отдать себе ясный отчет в положении дел и в том сложном чувстве стыда и жалости, которое все более угнетало его. — А я, тово… в участок! Ишь ты!</p>
+   <p>Тяжело крякнув и стукнув своей «селедкой» по камню, Баргамот присел на корточки около Гараськи.</p>
+   <p>— Ну… — смущенно гудел он. — Может, оно не разбилось?</p>
+   <p>— Да, не разбилось, ты и морду-то всю готов разбить. Ирод!</p>
+   <p>— А ты чего же?</p>
+   <p>— Чего? — передразнил Гараська. — К нему по-благородному, а он в… в участок. Может, яичко-то у меня последнее? Идол!</p>
+   <p>Баргамот пыхтел. Его нисколько не оскорбляли ругательства Гараськи: всем своим нескладным нутром он ощущал не то жалость, не то совесть. Где-то, в самых отдаленных недрах его дюжего тела, что-то назойливо сверлило и мучило.</p>
+   <p>— Да разве вас можно не бить? — спросил Баргамот не то себя, не то Гараську.</p>
+   <p>— Да ты, чучело огородное, пойми…</p>
+   <p>Гараська, видимо, входил в обычную колею. В его несколько проясневшем мозгу вырисовалась целая перспектива самых соблазнительных ругательств и обидных прозвищ, когда сосредоточенно сопевший Баргамот голосом, не оставлявшим ни малейшего сомнения в твердости принятого им решения, заявил:</p>
+   <p>— Пойдем ко мне разговляться.</p>
+   <p>— Так я к тебе, пузатому черту, и пошел!</p>
+   <p>— Пойдем, говорю!</p>
+   <p>Изумлению Гараськи не было границ. Совершенно пассивно позволив себя поднять, он шел, ведомый под руку Баргамотом, шел — и куда же? — не в участок, а в дом к самому Баргамоту, чтобы там еще… разговляться! В голове Гараськи блеснула соблазнительная мысль — навострить от Баргамота лыжи, но хоть голова его и прояснела от необычности положения, зато лыжи находились в самом дурном состоянии, как бы поклявшись вечно цепляться друг за друга и не давать друг другу ходу. Да и Баргамот был так чуден, что Гараське, собственно говоря, и не хотелось уходить. С трудом ворочая языком, приискивая слова и путаясь, Баргамот то излагал ему инструкцию для городовых, то снова возвращался к основному вопросу о битье и участке, разрешая его в смысле положительном, но в то же время и отрицательном.</p>
+   <p>— Верно говорите, Иван Акиндиныч, нельзя нас не бить, — поддерживал Гараська, чувствуя даже какую-то неловкость: уж больно чуден был Баргамот!</p>
+   <p>— Да нет, не то я говорю… — мямлил Баргамот, еще менее, очевидно, чем Гараська, понимавший, что городит его суконный язык…</p>
+   <p>Пришли наконец домой, — и Гараська уже перестал изумляться. Марья сперва вытаращила глаза при виде необычайной пары, но по растерянному лицу мужа догадалась, что противоречить не нужно, а по своему женскому мягкосердечию живо смекнула, что надо делать.</p>
+   <p>Вот ошалевший и притихший Гараська сидит за убранным столом. Ему так совестно, что хоть сквозь землю провалиться. Совестно своих отрепий, совестно своих грязных рук, совестно всего себя, оборванного, пьяного, скверного. Обжигаясь, ест он дьявольски горячие, заплывшие жиром щи, проливает на скатерть и, хотя хозяйка деликатно делает вид, что не замечает этого, конфузится и больше проливает. Так невыносимо дрожат эти заскорузлые пальцы с большими грязными ногтями, которые впервые заметил у себя Гараська.</p>
+   <p>— Иван Акиндиныч, а что же вы Ванятке-то… сюрпризец? — спрашивает Марья.</p>
+   <p>— Не надо, потом… — отвечает торопливо Баргамот. Он обжигается щами, дует на ложку и солидно обтирает усы, — но сквозь эту солидность сквозит то же изумление, что и у Гараськи.</p>
+   <p>— Кушайте, кушайте, — потчует Марья. — Герасим… как звать вас по батюшке?</p>
+   <p>— Андреич.</p>
+   <p>— Кушайте, Герасим Андреич.</p>
+   <p>Гараська старается проглотить, давится и, бросив ложку, падает головой на стол прямо на сальное пятно, только что им произведенное. Из груди его вырывается снова тот жалобный и грубый вой, который так смутил Баргамота. Денники, уже переставшие было обращать внимание на гостя, бросают свои ложки и дискантом присоединяются к его тенору. Баргамот с растерянностью и жалкою миной смотрит па жену.</p>
+   <p>— Ну, чего вы, Герасим Андреич! Перестаньте, — успокаивает та беспокойного гостя.</p>
+   <p>— По отчеству… Как родился, никто по отчеству… не называл…</p>
+   <p><emphasis><sub>1898</sub></emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Комментарии</p>
+   </title>
+   <section>
+    <p>Впервые — в газете «Курьер», 1898, 5 апреля, № 94. Рассказ написан под ощутимым влиянием очерков Глеба Успенского: в Баргамоте проступают черты будочника Мымрецова, а в Гараське — пьяного портного Данилки, которого у Успенского только девушка из «заведения» называет по отчеству, и за это растроганный Данилка решает на ней жениться (очерк Гл. Успенского «Будка», 1868).</p>
+    <p>Герои рассказа Андреева имели реальных прототипов, хотя сюжет его, по-видимому, вымышлен. Фамилия городового Баргамотов, характеризующая его внешний облик, явно происходит от прозвища, а не наоборот. Баргамот (бергамот) — один из наиболее распространенных в России в прошлом веке сортов груш. Интересно отметить, что Иваном Акиндиновичем, как и городового Баргамота, звали известного в Орле в 1890-х гг. делопроизводителя воинского стола городской управы, бывшего станового пристава И. А. Боброва (см. его некролог в «Орловском вестнике», 1915, 21 июня).</p>
+    <p>Предложение написать для «Курьера» пасхальный рассказ Андреев получил от секретаря редакции газеты И. Д. Новика. 25 сентября 1898 г. Андреев вспоминал в дневнике, что рассказ им был написан и «после некоторого утюженья, отнявшего от рассказа значительную долю его силы, был принят, но без всякого восторга, что казалось мне вполне естественным, ибо сам я о рассказе был мнения среднего… Нельзя поэтому передать моего удивления, когда я являюсь в понедельник на Фоминой в Суд и редакцию и там только и слышишь „Баргамот и Гараська“ (заглавие рассказа). Говорят, что рассказ украшение всего пасхального номера. Там-то его читали вслух и восхищались, здесь о нем шла речь в вагоне железной дороги. Поздравляют меня с удачным дебютом, сравнивают с Чеховым и т. п. В три-четыре дня я поднялся на вершину славы».</p>
+    <p>Бывший сотрудник «Курьера» журналист Я. Земский вспоминал о начале работы Л. Андреева в этой газете: «Совсем еще юноша, едва переступивший первую ступень возмужалости, он сразу обратил на себя внимание… Мнения сотрудников о нем расходились: одни находили в нем просто талантливого беллетриста, другие пророчили ему славу Чехова. По мере того как появлялись в „Курьере“ его рассказы, популярность его росла с необычайной быстротой. Руководители „Курьера“ нянчились с ним, как с капризным ребенком» (Москва, 1910, № 67, 15 ноября).</p>
+    <p>«Баргамот и Гараська» растрогал и восхитил М. Горького, который сразу же после прочтения рассказа в «Курьере» 5 апреля 1898 г. написал в Петербург редактору-издателю «Журнала для всех» В. С. Миролюбову: «…вот бы Вы поимели в виду этого Леонида! Хорошая у него душа, у черта! Я его, к сожалению, не знаю, а то бы тоже к вам направил» (Горький М. Переписка в 2-х томах, т. 1. М., Художественная литература, 1986, с. 80). Позже в письме Андрееву от 20–25 апреля 1899 г. Горький обратил внимание и на художественные недостатки рассказа: «Лучший ваш рассказ „Баргамот и Гараська“ — сначала длинен, в середине — превосходен, а в конце вы сбились с тона» (ЛН, т. 72, с. 66). М. Горький имел в виду заключительный эпизод рассказа (описание утреннего чаепития городового и поступившего к нему в работники Гараськи). Под влиянием критики М. Горького Андреев вычеркнул эту «сладкую» сцену, и в новой редакции «Баргамот и Гараська» был напечатан в журнале «Народное благо», 1902, №№ 15–16 и в коллективном благотворительном сборнике «Книга рассказов и стихотворений», М, изд. С. Курнина и K°, 1902. «Баргамот и Гараська» переведен на многие иностранные языки (немецкий, английский, испанский, венгерский и др.).</p>
+   </section>
+  </section>
+ </body>
+ <binary id="sd498_25_10.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAgEASABIAAD/7RO+UGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAA
+AAEAAgBIAAAAAQACOEJJTQQNAAAAAAAEAAAAeDhCSU0D8wAAAAAACAAAAAAAAAAAOEJJTQQK
+AAAAAAABAAA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAG
+AAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAG
+AAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA////////
+/////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////
+////////////////////////A+gAADhCSU0ECAAAAAAAGgAAAAEAAAJAAAACQAAAAAIAAAjU
+AQAABDQBOEJJTQQUAAAAAAAEAAAAAThCSU0EDAAAAAASIwAAAAEAAABHAAAAcAAAANgAAF6A
+AAASBwAYAAH/2P/gABBKRklGAAECAQBIAEgAAP/uAA5BZG9iZQBkgAAAAAH/2wCEAAwICAgJ
+CAwJCQwRCwoLERUPDAwPFRgTExUTExgRDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwBDQsLDQ4NEA4OEBQODg4UFA4ODg4UEQwMDAwMEREMDAwMDAwRDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDP/AABEIAHAARwMBIgACEQEDEQH/3QAEAAX/xAE/AAABBQEBAQEB
+AQAAAAAAAAADAAECBAUGBwgJCgsBAAEFAQEBAQEBAAAAAAAAAAEAAgMEBQYHCAkKCxAAAQQB
+AwIEAgUHBggFAwwzAQACEQMEIRIxBUFRYRMicYEyBhSRobFCIyQVUsFiMzRygtFDByWSU/Dh
+8WNzNRaisoMmRJNUZEXCo3Q2F9JV4mXys4TD03Xj80YnlKSFtJXE1OT0pbXF1eX1VmZ2hpam
+tsbW5vY3R1dnd4eXp7fH1+f3EQACAgECBAQDBAUGBwcGBTUBAAIRAyExEgRBUWFxIhMFMoGR
+FKGxQiPBUtHwMyRi4XKCkkNTFWNzNPElBhaisoMHJjXC0kSTVKMXZEVVNnRl4vKzhMPTdePz
+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
+Mi4xAAAAAAAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAADzUQABAAAAARbMWFlaIAAA
+AAAAAAAAAAAAAAAAAABYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABja
+WFlaIAAAAAAAACSgAAAPhAAAts9kZXNjAAAAAAAAABZJRUMgaHR0cDovL3d3dy5pZWMuY2gA
+AAAAAAAAAAAAABZJRUMgaHR0cDovL3d3dy5pZWMuY2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZh
+dWx0IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAAAAAAAAAuSUVDIDYxOTY2LTIuMSBE
+ZWZhdWx0IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRl
+c2MAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENvbmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEA
+AAAAAAAAAAAAACxSZWZlcmVuY2UgVmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5NjYtMi4x
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2aWV3AAAAAAATpP4AFF8uABDPFAAD7cwABBML
+AANcngAAAAFYWVogAAAAAABMCVYAUAAAAFcf521lYXMAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+AAAAAAKPAAAAAnNpZyAAAAAAQ1JUIGN1cnYAAAAAAAAEAAAAAAUACgAPABQAGQAeACMAKAAt
+ADIANwA7AEAARQBKAE8AVABZAF4AYwBoAG0AcgB3AHwAgQCGAIsAkACVAJoAnwCkAKkArgCy
+ALcAvADBAMYAywDQANUA2wDgAOUA6wDwAPYA+wEBAQcBDQETARkBHwElASsBMgE4AT4BRQFM
+AVIBWQFgAWcBbgF1AXwBgwGLAZIBmgGhAakBsQG5AcEByQHRAdkB4QHpAfIB+gIDAgwCFAId
+AiYCLwI4AkECSwJUAl0CZwJxAnoChAKOApgCogKsArYCwQLLAtUC4ALrAvUDAAMLAxYDIQMt
+AzgDQwNPA1oDZgNyA34DigOWA6IDrgO6A8cD0wPgA+wD+QQGBBMEIAQtBDsESARVBGMEcQR+
+BIwEmgSoBLYExATTBOEE8AT+BQ0FHAUrBToFSQVYBWcFdwWGBZYFpgW1BcUF1QXlBfYGBgYW
+BicGNwZIBlkGagZ7BowGnQavBsAG0QbjBvUHBwcZBysHPQdPB2EHdAeGB5kHrAe/B9IH5Qf4
+CAsIHwgyCEYIWghuCIIIlgiqCL4I0gjnCPsJEAklCToJTwlkCXkJjwmkCboJzwnlCfsKEQon
+Cj0KVApqCoEKmAquCsUK3ArzCwsLIgs5C1ELaQuAC5gLsAvIC+EL+QwSDCoMQwxcDHUMjgyn
+DMAM2QzzDQ0NJg1ADVoNdA2ODakNww3eDfgOEw4uDkkOZA5/DpsOtg7SDu4PCQ8lD0EPXg96
+D5YPsw/PD+wQCRAmEEMQYRB+EJsQuRDXEPURExExEU8RbRGMEaoRyRHoEgcSJhJFEmQShBKj
+EsMS4xMDEyMTQxNjE4MTpBPFE+UUBhQnFEkUahSLFK0UzhTwFRIVNBVWFXgVmxW9FeAWAxYm
+FkkWbBaPFrIW1hb6Fx0XQRdlF4kXrhfSF/cYGxhAGGUYihivGNUY+hkgGUUZaxmRGbcZ3RoE
+GioaURp3Gp4axRrsGxQbOxtjG4obshvaHAIcKhxSHHscoxzMHPUdHh1HHXAdmR3DHeweFh5A
+HmoelB6+HukfEx8+H2kflB+/H+ogFSBBIGwgmCDEIPAhHCFIIXUhoSHOIfsiJyJVIoIiryLd
+IwojOCNmI5QjwiPwJB8kTSR8JKsk2iUJJTglaCWXJccl9yYnJlcmhya3JugnGCdJJ3onqyfc
+KA0oPyhxKKIo1CkGKTgpaymdKdAqAio1KmgqmyrPKwIrNitpK50r0SwFLDksbiyiLNctDC1B
+LXYtqy3hLhYuTC6CLrcu7i8kL1ovkS/HL/4wNTBsMKQw2zESMUoxgjG6MfIyKjJjMpsy1DMN
+M0YzfzO4M/E0KzRlNJ402DUTNU01hzXCNf02NzZyNq426TckN2A3nDfXOBQ4UDiMOMg5BTlC
+OX85vDn5OjY6dDqyOu87LTtrO6o76DwnPGU8pDzjPSI9YT2hPeA+ID5gPqA+4D8hP2E/oj/i
+QCNAZECmQOdBKUFqQaxB7kIwQnJCtUL3QzpDfUPARANER0SKRM5FEkVVRZpF3kYiRmdGq0bw
+RzVHe0fASAVIS0iRSNdJHUljSalJ8Eo3Sn1KxEsMS1NLmkviTCpMcky6TQJNSk2TTdxOJU5u
+TrdPAE9JT5NP3VAnUHFQu1EGUVBRm1HmUjFSfFLHUxNTX1OqU/ZUQlSPVNtVKFV1VcJWD1Zc
+VqlW91dEV5JX4FgvWH1Yy1kaWWlZuFoHWlZaplr1W0VblVvlXDVchlzWXSddeF3JXhpebF69
+Xw9fYV+zYAVgV2CqYPxhT2GiYfViSWKcYvBjQ2OXY+tkQGSUZOllPWWSZedmPWaSZuhnPWeT
+Z+loP2iWaOxpQ2maafFqSGqfavdrT2una/9sV2yvbQhtYG25bhJua27Ebx5veG/RcCtwhnDg
+cTpxlXHwcktypnMBc11zuHQUdHB0zHUodYV14XY+dpt2+HdWd7N4EXhueMx5KnmJeed6Rnql
+ewR7Y3vCfCF8gXzhfUF9oX4BfmJ+wn8jf4R/5YBHgKiBCoFrgc2CMIKSgvSDV4O6hB2EgITj
+hUeFq4YOhnKG14c7h5+IBIhpiM6JM4mZif6KZIrKizCLlov8jGOMyo0xjZiN/45mjs6PNo+e
+kAaQbpDWkT+RqJIRknqS45NNk7aUIJSKlPSVX5XJljSWn5cKl3WX4JhMmLiZJJmQmfyaaJrV
+m0Kbr5wcnImc951kndKeQJ6unx2fi5/6oGmg2KFHobaiJqKWowajdqPmpFakx6U4pammGqaL
+pv2nbqfgqFKoxKk3qamqHKqPqwKrdavprFys0K1ErbiuLa6hrxavi7AAsHWw6rFgsdayS7LC
+szizrrQltJy1E7WKtgG2ebbwt2i34LhZuNG5SrnCuju6tbsuu6e8IbybvRW9j74KvoS+/796
+v/XAcMDswWfB48JfwtvDWMPUxFHEzsVLxcjGRsbDx0HHv8g9yLzJOsm5yjjKt8s2y7bMNcy1
+zTXNtc42zrbPN8+40DnQutE80b7SP9LB00TTxtRJ1MvVTtXR1lXW2Ndc1+DYZNjo2WzZ8dp2
+2vvbgNwF3IrdEN2W3hzeot8p36/gNuC94UThzOJT4tvjY+Pr5HPk/OWE5g3mlucf56noMui8
+6Ubp0Opb6uXrcOv77IbtEe2c7ijutO9A78zwWPDl8XLx//KM8xnzp/Q09ML1UPXe9m32+/eK
++Bn4qPk4+cf6V/rn+3f8B/yY/Sn9uv5L/tz/bf///+4ADkFkb2JlAGSAAAAAAf/bAIQACAYG
+BgYGCAYGCAwIBwgMDgoICAoOEA0NDg0NEBEMDAwMDAwRDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAEJCAgJCgkLCQkLDgsNCw4RDg4ODhERDAwMDAwREQwMDAwMDBEMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwM/8AAEQgBOgDIAwEiAAIRAQMRAf/dAAQADf/EAaIAAAAHAQEB
+AQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAAAQACAwQFBgcICQoLEAAC
+AQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPBUtHhMxZi8CRygvEl
+QzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE1OT0ZXWFlaW1
+xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZqbnJ2en5
+KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEyobHw
+FMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp
+0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4
+yNjo+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A7/mzZsVd7Zs2
+bFXZs2bFXZs2bFXZs2bFXZshnmX80PKnlqV7OW4a/wBRTZrGxUTSKfCV6rDF/qySep/kZB7j
+88tXkath5djij7G6uqsR/qxx/D/wWWwwZZi4QlId4GzGU4x+qQHvL2vNnFrT89L9HA1Py8Hi
+r8UlnchmA9o5UXl/yMXOheV/P/ljzb+60y6Md6oq+n3K+lcKPERsaSD/ACoWkXBkw5ce84Sj
+5kbLGcZfTIH3Fk+bNmytk7NmzYq7NmzYq7NmzYq7NmzYq7NmzYq//9Dv+bAGtTalBplzLpEK
+z3qoTFG5pvTqoo3Nl/Zj+Hn/AD4QTX/nYado7xWEJu5ZYxqA5knjTf1F4fuFf7Ujo0vot8Px
+5CWQRNVI7XsLcnDpZ5YiQnjjcjH1zjA7R4ro/wALLs2R2O782HzDdQNZQfopYFaBzKwUyVbi
+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
+sVdmzZsVdmzZsVf/2Q==</binary>
+</FictionBook>
